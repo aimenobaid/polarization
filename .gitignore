@@ -6,5 +6,4 @@
 *.h5
 
 #Ignore json files
-
-*.json
+bulk_samples.json
