@@ -3,7 +3,6 @@
 *.ipynb_checkpoints/
 
 # Ignore .h5 files
-*.h5
 
-#Ignore json files
-bulk_samples.json
+*.h5
+*.json
