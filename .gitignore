@@ -4,3 +4,6 @@
 
 # Ignore .h5 files
 *.h5
+
+# ignore json files 
+samples.json
